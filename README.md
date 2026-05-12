@@ -4,7 +4,7 @@
 <p align="center">
   <h1 align="center">Visual Tokenizers: A Comprehensive Survey</h1>
   <p align="center">
-    ACM Computing Surveys, 2026
+     Technical Report [Survey], 2026
     <br />
     <a href="https://msalab-pku.github.io/authors/qyshi/"><strong>Qingyu Shi</strong></a>
     ·
