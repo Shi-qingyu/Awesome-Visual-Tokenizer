@@ -133,6 +133,7 @@ Notes:
 | - | Scalable Training for Vector-Quantized Networks with 100% Codebook Utilization | [Paper](https://arxiv.org/abs/2509.10140) | - |
 | UniWeTok | UniWeTok: A Unified Binary Tokenizer with Codebook Size 2128 for Unified Multimodal Large Language Model | [Paper](https://arxiv.org/abs/2602.14178) | [shallowdream204/BitDance](https://github.com/shallowdream204/BitDance) |
 | SimVQ | Addressing Representation Collapse in Vector Quantized Models with One Linear Layer | [Paper](https://arxiv.org/abs/2411.02038) | [youngsheen/SimVQ](https://github.com/youngsheen/SimVQ) |
+| Wasserstein VQ | Distributional Matching for Vector Quantization: A Unified Theoretical and Empirical Framework | [Paper](https://arxiv.org/abs/2607.15933) | [VQ-Research/Wasserstein-VQ](https://github.com/VQ-Research/Wasserstein-VQ) |
 
 ### Compression / Generation-Oriented Tokenizers
 
@@ -157,7 +158,7 @@ Notes:
 | VFMTok | Vision Foundation Models as Effective Visual Tokenizers for Autoregressive Image Generation | [Paper](https://arxiv.org/abs/2507.08441) | [CVMI-Lab/VFMTok](https://github.com/CVMI-Lab/VFMTok) |
 | REPA-E | REPA-E: Unlocking VAE for End-to-End Tuning with Latent Diffusion Transformers | [Paper](https://arxiv.org/abs/2504.10483) | [Project Page](https://end2end-diffusion.github.io/) |
 | token-opt | Highly Compressed Tokenizer Can Generate Without Training | [Paper](https://arxiv.org/abs/2506.08257) | [lukaslaobeyer/token-opt](https://github.com/lukaslaobeyer/token-opt) |
-| - | Enhancing Vector Quantization with Distributional Matching: A Theoretical and Empirical Study | [Paper](https://arxiv.org/abs/2506.15078) | - |
+| - | Enhancing Vector Quantization with Distributional Matching: A Theoretical and Empirical Study | [Paper](https://arxiv.org/abs/2506.15078) | [VQ-Research/Wasserstein-VQ](https://github.com/VQ-Research/Wasserstein-VQ) |
 | ALIT | Adaptive Length Image Tokenization via Recurrent Allocation | [Paper](https://arxiv.org/abs/2411.02393) | [ShivamDuggal4/adaptive-length-tokenizer](https://github.com/ShivamDuggal4/adaptive-length-tokenizer) |
 | DeRA | DeRA: Decoupled Representation Alignment for Video Tokenization | [Paper](https://arxiv.org/abs/2512.04483) | - |
 | DCS-LDM | Decoupling Complexity from Scale in Latent Diffusion Model | [Paper](https://arxiv.org/abs/2511.16117) | - |
@@ -258,5 +259,3 @@ If you find this survey or repository useful, please consider citing:
   year      = {2026}
 }
 ```
-
-
